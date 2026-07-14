@@ -3,6 +3,14 @@ langchain-core>=0.1.0
 langchain-community>=0.0.10
 langchain-ollama>=0.1.0
 langchain-google-genai
+langchain-openai
+langchain-classic
 python-dotenv
 ollama
 faiss-cpu
+openai
+google-generativeai
+tiktoken
+python-pptx
+chromadb
+crewai
